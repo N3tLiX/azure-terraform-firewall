@@ -1,4 +1,4 @@
-# azure-terraform-[MODULE_NAME]
+# azure-terraform-firewall
 
 ## Create a simple [MODULE_NAME] in Azure
 
